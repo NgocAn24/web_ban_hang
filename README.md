@@ -3,9 +3,12 @@ Trang web bán đồ chơi được xây dựng bằng Laravel nhằm cung cấp
 
 II
 2.1. Frontend (Giao diện người dùng):
+
 • HTML, CSS, JavaScript: Cung cấp giao diện cơ bản của website.
+
 • Bootstrap: Được sử dụng để giúp giao diện website hiển thị đẹp trên nhiều
 thiết bị (responsive).
+
 • AJAX: Hỗ trợ gửi và nhận dữ liệu từ backend mà không cần phải tải lại
 trang, cải thiện trải nghiệm người dùng.
 
