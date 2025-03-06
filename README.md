@@ -42,6 +42,9 @@ và trả về dữ liệu.
 
 III. Sơ đồ kiến trúc hệ thống
 
+![Uploading Screenshot (33).png…]()
+
+
 1. Truy cập website: Người dùng truy cập vào website và duyệt các sản phẩm.
 2. Tìm kiếm và thêm sản phẩm vào giỏ hàng: Người dùng có thể tìm kiếm sản
 phẩm, xem chi tiết và thêm vào giỏ hàng.
