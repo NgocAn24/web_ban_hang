@@ -13,6 +13,7 @@ thiết bị (responsive).
 trang, cải thiện trải nghiệm người dùng.
 
 2.2. Backend (Xử lý logic và dữ liệu):
+
 • Laravel Framework: Là framework PHP mạnh mẽ hỗ trợ phát triển các
 ứng dụng web, giúp xử lý yêu cầu từ người dùng, giao tiếp với cơ sở dữ liệu
 và trả về dữ liệu.
